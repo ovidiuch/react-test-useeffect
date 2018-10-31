@@ -1,5 +1,3 @@
-// @flow
-
 import React, { useEffect } from "react";
 import { create as render } from "react-test-renderer";
 
